@@ -13,16 +13,18 @@ const Main = styled.body`
   .user-info {
     display: flex;
     flex-direction: column;
-    align-items: center;
     justify-content: center;
   }
 
   h1 {
     color: #6bd425;
+    font-size: 3em;
   }
 
   h2 {
     color: #ffffff;
+    font-weight: 400;
+    font-size: 2.20em;
   }
 
   img {
