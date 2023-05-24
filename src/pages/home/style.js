@@ -46,6 +46,8 @@ const Main = styled.body`
     border-radius: 10px;
     color: #ffffff;
     font-size: 1.80em;
+    font-weight: bold;
+    font-family: "Inter", Arial, Helvetica, sans-serif;
   }
 
   .contact {
@@ -54,6 +56,14 @@ const Main = styled.body`
 
   .cv {
     background-color: #6bd425;
+  }
+
+  .cv:hover {
+    background-color: #618B25;
+  }
+
+  .contact:hover {
+    background-color: #1C0118;
   }
 
 
