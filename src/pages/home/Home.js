@@ -16,7 +16,7 @@ function Home() {
         <div className="user-info">
           <div className="titles">
             <h1>alert("Hello World!👩‍💻");</h1>
-            <h2>Desenvolvedora Full Stack e UX/UI Designer.</h2>
+            <h2>Desenvolvedora Web Full-Stack e UX/UI Designer.</h2>
           </div>
           <div className="buttons">
             <Link to="/contact">
